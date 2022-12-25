@@ -1,2 +1,0 @@
-# EpicGames
-Epic games
